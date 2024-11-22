@@ -11,3 +11,5 @@ groupmod
 top
 exit
 echo
+gitlog
+gitpush
