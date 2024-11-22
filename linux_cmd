@@ -1,0 +1,15 @@
+mkdir
+touch
+cd
+ls
+useradd
+userdel
+usermo
+groupadd
+groupdell
+groupmod
+top
+exit
+echo
+gitlog
+gitpush
